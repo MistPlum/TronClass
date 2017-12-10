@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1081557174766",
+    "firebase_url": "https://tronclass-fjuim.firebaseio.com",
+    "project_id": "tronclass-fjuim",
+    "storage_bucket": "tronclass-fjuim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081557174766:android:13674359930790c3",
+        "android_client_info": {
+          "package_name": "com.example.fjuim.tronclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081557174766-chhl530k0tbnl26lsu6m25s2ejtlqp1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fjuim.tronclass",
+            "certificate_hash": "88ceec919b3125d395052b4bd28ede7b616f4495"
+          }
+        },
+        {
+          "client_id": "1081557174766-encs7amckumtr53cdi5m1p91rv3f5tl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVgImlLaUMxRprWAw_ECgRcFhAP9AZZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081557174766-encs7amckumtr53cdi5m1p91rv3f5tl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TronClass</string>
+    <string name="textshowshere">TextShowsHere</string>
+    <string name="send">Send</string>
+    <string name="text">Text</string>
+</resources>
